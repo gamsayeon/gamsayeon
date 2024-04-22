@@ -3,6 +3,17 @@
   ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&text=Gamsayeon's%20GitHub&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 </div>
 
+---
+👋 안녕하세요! 저는 백엔드 개발자 주니어로써 열심히 공부하고 있는 Gamsayeon입니다.
+
+💻 현재는 주로 Java와 Spring Framework를 활용하여 백엔드 개발에 집중하고 있습니다.
+
+🌱 새로운 기술을 배우고, 프로젝트를 통해 실전 경험을 쌓는 데에 열정을 가지고 있습니다.
+
+✨ 끊임없는 도전과 학습을 통해 더 나은 개발자로 성장하는 것이 목표입니다.
+
+---
+
 <h1> ⚡Toy Project⚡</h1>
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gamsayeon&repo=Auction-Server)](https://github.com/anuraghazra/github-readme-stats)
@@ -42,15 +53,18 @@
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
 
+---
 <h1> 🔗Link🔗</h1>
   <a href="https://gamsayeon.tistory.com/category/Toy%20Project" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/%EA%B0%95%ED%98%84-%EC%B5%9C-41a646263/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
+---
 <h1> 📚Coding Study📚</h1>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=aud4551)](https://solved.ac/aud4551)<br/>
 
 
+---
 <h1> 🙏Contribute🙏</h1>
 
 <h3 align="left">💡 My Most Used Languages 💡</h3>
