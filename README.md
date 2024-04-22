@@ -40,10 +40,14 @@
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
 
-<h1> 📚Link📚</h1>
+<h1> 🔗Link🔗</h1>
   <a href="https://gamsayeon.tistory.com/category/Toy%20Project" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/%EA%B0%95%ED%98%84-%EC%B5%9C-41a646263/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
+<h1> 📚Coding Study📚</h1>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=aud4551)](https://solved.ac/aud4551)<br/>
+
 
 <h1> 🙏Contribute🙏</h1>
 
@@ -61,4 +65,9 @@
   </a>
 </p>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgamsayeon%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<h3 align="left">💡 My Contribute Graph 💡</h3>
+<a href="https://github.com/gamsayeon/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gamsayeon&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>
+
+<a href="https://github.com/gamsayeon"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgamsayeon%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
