@@ -16,8 +16,8 @@
 
 <h1> ⚡Toy Project⚡</h1>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gamsayeon&repo=Auction-Server)](https://github.com/anuraghazra/github-readme-stats)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gamsayeon&repo=community-server)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gamsayeon&repo=Auction-Server)](https://github.com/gamsayeon/Auction-Server)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gamsayeon&repo=community-server)](https://github.com/gamsayeon/community-server)
   
 ---
 <h1> 💻Languages & Tools💻</h1>
