@@ -60,10 +60,16 @@
   <a href="https://www.linkedin.com/in/%EA%B0%95%ED%98%84-%EC%B5%9C-41a646263/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
 ---
-<h1> 📚Coding Study📚</h1>
+<h1> 📚Activity📚</h1>
 
+<a href="https://www.acmicpc.net/user/aud4551" target="_blank"><img src="https://img.shields.io/badge/baekjoon-000000?style=for-the-badge&logo=baekjoon&logoColor=white"/></a>
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=aud4551)](https://solved.ac/aud4551)<br/>
-
+  
+- AWSkrug Serverless 참석
+  
+<a href="https://gamsayeon.tistory.com/67" target="_blank"><img src="https://img.shields.io/badge/awskrug-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/></a>
+  
 
 ---
 <h1> 🙏Contribute🙏</h1>
